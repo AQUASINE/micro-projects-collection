@@ -1,5 +1,14 @@
 [
   {
+    "name": "Blinking Text",
+    "url": "https://aquasine.github.io/blinking-text/?text=example"
+  },
+  {
+    "name": "atrioc.org",
+    "url": "https://atrioc.org",
+    "imageUrl": "https://media.discordapp.net/attachments/518663754943299587/1059305011152175224/image.png?width=1268&height=660"
+  },
+  {
     "name": "Pong",
     "url": "https://aquasine.github.io/brggren-pong/",
     "imageUrl": "https://media.discordapp.net/attachments/518663754943299587/1059295845016674305/image.png"
