@@ -1,15 +1,17 @@
 <template>
   <img alt="Vue logo" class="sillyimage" src="https://cdn.discordapp.com/emojis/1015738796987404489.webp?size=96&quality=lossless">
   <ListOrganizer />
+  <SnippetListOrganizer />
 </template>
 
 <script>
 
 import ListOrganizer from "@/components/ListOrganizer.vue";
+import SnippetListOrganizer from "@/components/SnippetListOrganizer.vue";
 
 export default {
   name: 'App',
-  components: {ListOrganizer},
+  components: {SnippetListOrganizer, ListOrganizer},
 }
 </script>
 

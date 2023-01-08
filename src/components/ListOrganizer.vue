@@ -1,7 +1,7 @@
 <template>
   <div class="stuff">
     <h1>
-      Stuff
+      Hosted Projects
     </h1>
     <ul class="stuff-list">
       <ListComponent
@@ -33,9 +33,9 @@ export default {
 .stuff {
   background-color: var(--color-background-mute);
   width: 50%;
-  margin: 0 auto;
   padding: 5px;
   border-radius: 5px;
+  margin: 0 auto 10px;
 }
 .stuff-list {
   list-style: none;
